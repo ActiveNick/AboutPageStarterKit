@@ -1,0 +1,104 @@
+﻿{"Groups":[
+  {
+    "UniqueId": "Tiles",
+    "Title": "About Page Tiles",
+    "Subtitle": "Tile links to internal and external pages",
+    "ImagePath": "Assets/DarkGray.png",
+    "Description" : "Tile links to internal and external pages",
+    "Items":
+    [
+      {
+        "UniqueId": "LoveApp",
+        "Title": "I love this app",
+        "Subtitle": "post a 5-star rating in the app store",
+        "ImagePath": "Assets/TileIcons/Heart.png",
+        "Description" : "",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Feedback",
+        "Title": "Feedback",
+        "Subtitle": "tech support, feature requests and suggestions",
+        "ImagePath": "Assets/TileIcons/Bull-Horn.png",
+        "Description" : "",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "RemoveAds",
+        "Title": "Remove Ads",
+        "Subtitle": "buy this app & support the developer",
+        "ImagePath": "Assets/TileIcons/Shopping-Bag.png",
+        "Description" : "",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "MoreApps",
+        "Title": "More Apps",
+        "Subtitle": "More apps by this developer",
+        "ImagePath": "Assets/TileIcons/Windows.png",
+        "Description" : "",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Website",
+        "Title": "Website",
+        "Subtitle": "Visit the developer's website",
+        "ImagePath": "Assets/TileIcons/Web.png",
+        "Description" : "",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Twitter",
+        "Title": "Twitter",
+        "Subtitle": "Follow the developer on Twitter",
+        "ImagePath": "Assets/TileIcons/Twitter.png",
+        "Description" : "",
+        "Content" : ""
+      }
+    ]
+  },
+    {
+    "UniqueId": "Help",
+    "Title": "Help",
+    "Subtitle": "App documentation and help",
+    "ImagePath": "Assets/DarkGray.png",
+    "Description" : "App documentation and help",
+    "Items":
+    [
+      {
+        "UniqueId": "Help1",
+        "Title": "This section lets you document quick help content to let your users know what the app does and how to use it.",
+        "Subtitle": "",
+        "ImagePath": "",
+        "Description" : "",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Help2",
+        "Title": "Simply write short statements to inform users on specific features.",
+        "Subtitle": "",
+        "ImagePath": "",
+        "Description" : "",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Help3",
+        "Title": "Try to keep each help statement short and concise, sticking to one feature per line.",
+        "Subtitle": "",
+        "ImagePath": "",
+        "Description" : "",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Help4",
+        "Title": "As you publish more updates to your app, don't forget to append the help with the new features and how to use them.",
+        "Subtitle": "",
+        "ImagePath": "",
+        "Description" : "",
+        "Content" : ""
+      }
+    ]
+  }
+
+]
+}
